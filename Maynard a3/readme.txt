@@ -1,0 +1,1 @@
+Test methods use included test.txt friendship grid
